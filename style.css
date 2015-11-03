@@ -1,0 +1,18 @@
+/* style.css */
+
+body {
+	background-color: #FFE5AA;
+	color: #6B949E;
+}
+
+h2 {
+	color: #255c69;
+}
+
+div {
+	background-color: #D4776A;
+	border-style: inset;
+	border-width: 4px;
+	border-color: #802215;
+
+}
